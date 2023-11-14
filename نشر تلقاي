@@ -1,0 +1,11 @@
+2023-11-14T09:04:26.718947+00:00 app[api]: Release v3 created by user shshjehe1@gmail.com
+2023-11-14T09:04:26.886058+00:00 app[api]: Release v4 created by user shshjehe1@gmail.com
+2023-11-14T09:04:26.886058+00:00 app[api]: Set SESSION, APP_ID, APP_HASH config vars by user shshjehe1@gmail.com
+2023-11-14T09:04:27.000000+00:00 app[api]: Build started by user shshjehe1@gmail.com
+2023-11-14T09:05:02.000000+00:00 app[api]: Build succeeded
+2023-11-14T09:05:02.804453+00:00 app[api]: Deployed worker (c54a41217cca) by user shshjehe1@gmail.com
+2023-11-14T09:05:02.804453+00:00 app[api]: Release v5 created by user shshjehe1@gmail.com
+2023-11-14T09:05:30.693967+00:00 app[api]: Scaled to worker@1:Basic by user shshjehe1@gmail.com
+2023-11-14T09:05:32.666807+00:00 heroku[worker.1]: Starting process with command `/bin/sh -c python3\ haso.py`
+2023-11-14T09:05:33.258636+00:00 heroku[worker.1]: State changed from starting to up
+2023-11-14T09:05:34.003182+00:00 app[worker.1]: INFO:AL-Joker:النشر التلقائي شغال الان استمتع ✓
